@@ -1,4 +1,4 @@
-Privacy Policy
+### Privacy Policy
 
 Marcel Acostachioaie built the Simple Timetables app as a Free app. This SERVICE is provided by Marcel Acostachioaie at no cost and is intended for use as is.
 
@@ -8,19 +8,19 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 
 
-Information Collection and Use
+### Information Collection and Use
 
 No personally identifiable information is collected while using the app. The information that I request will be retained on your device and is not collected by me in any way.
 
 
 
-Log Data
+### Log Data
 
 I want to inform you that whenever you use my Service, in case of an error in the app I collect data and information on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 
 
-Cookies
+### Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
@@ -28,19 +28,19 @@ This Service does not use these “cookies” explicitly.
 
 
 
-Service Providers
+### Service Providers
 
 No third-party service providers are used in the app.
 
 
 
-Children’s Privacy
+### Children’s Privacy
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 
 
 
-Changes to This Privacy Policy
+### Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
@@ -50,6 +50,6 @@ This policy is effective as of 2022-02-20
 
 
 
-Contact Us
+### Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at acostachioaie.marcel@gmail.com.
